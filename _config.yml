@@ -14,7 +14,7 @@ description              : &description "PhD candidate at the Technion - Isreal 
 url                      : https://rotmanguy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rotmanguy.github.io"
-teaser                   :  "profile_image.PNG"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "profile.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Guy Rotman"
-  avatar           : "profile_image.PNG"
+  avatar           : "profile.png"
   bio              : "PhD candidate at the Technion - Isreal Institute of Technology"
   location         : "Haifa, Israel"
   employer         :
