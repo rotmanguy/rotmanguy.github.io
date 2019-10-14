@@ -10,4 +10,4 @@ citation: 'Guy Rotman, Ivan Vulić, and Roi Reichart. (2018). &quot;Bridging Lan
 
 [Download paper here](https://www.aclweb.org/anthology/P18-1084.pdf)
 
-citation: 'Guy Rotman, Ivan Vulić, Roi Reichart. (2018). &quot;Bridging Languages through Images with Deep Partial Canonical Correlation Analysis.&quot; <i>Association for Computational Linguistics</i>.'
+citation: 'Guy Rotman, Ivan Vulić, and Roi Reichart. (2018). &quot;Bridging Languages through Images with Deep Partial Canonical Correlation Analysis.&quot; <i>Association for Computational Linguistics</i>.'
