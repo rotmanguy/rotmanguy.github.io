@@ -16,11 +16,11 @@ Education
   * 3 Dean of IE&M Technion Award for excellence.
 * BA in Economics & Management, Technion IIT, 2016. Graduated Summa Cum Laude.
 * MSc in Information Management Engineering, Technion IIT, 2018. Research in Natural Language Processing under the supervision of Professor Roi Reichart. My research focused on a multimodal multilingual model that uses visual features to mediate between different languages. Also, I developed Stochastic Optimization algorithms for Deep Learning models. Graduated Cum Laude.
-* PhD candidate at the faculty of Industrial Engineering and Management at the Technion IIT, working under the supervision of Professor Roi Reichart, 2019 - Current.
+* PhD candidate at the faculty of Industrial Engineering and Management at the Technion IIT, working under the supervision of Professor Roi Reichart, 2019 - Present.
 
 Work experience
 ======
-January 2019 – Current
+January 2019 – Present
 Student Data Scientist at Intel. Working on Machine Learning classification and regression problems on imbalanced datasets.
 
 2016 – 2019
