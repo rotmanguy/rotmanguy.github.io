@@ -31,10 +31,10 @@ TA – "Probability for Computer Science", Faculty of IE, Technion IIT.
 July 2017 – September 2017
 Internship at Ebay Israel Research Lab under the supervision of Mr. Ido Guy and Dr. Kira Radinsky. I worked on Text Classification and Named Entity Recognition using Machine Learning and Deep Learning models. 
 
-2016 - 2015
+2015 - 2016
 Research assistant at the Faculty of IE, Technion IIT under the supervision of Professor Izack Cohen. I worked with Matlab and Java to apply scheduling algorithms in the field of Project Management.
 
-2016 – 2013
+2013 – 2016
 Private tutor at the Technion Student Promotion Unit. I was teaching: Data Structures and Algorithms, Database Management, Artificial Intelligent, Data Mining, Discrete Mathematics, Probability, Statistics, Stochastic Models, Deterministic Models, Stochastic Simulation and Dynamic Linear Systems.
 
 Skills
