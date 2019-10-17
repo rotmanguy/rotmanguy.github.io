@@ -8,3 +8,7 @@ Suggested citation: '<b>Guy Rotman</b>, Ivan Vulić, and Roi Reichart. <i>Associ
 pdfurl: "https://www.aclweb.org/anthology/P18-1084.pdf"
 codeurl: "https://github.com/rotmanguy/DPCCA"
 ---  
+<a href="https://www.aclweb.org/anthology/P18-1084.pdf">PDF</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.aclweb.org/anthology/P18-1084.pdf">Code and Data</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
