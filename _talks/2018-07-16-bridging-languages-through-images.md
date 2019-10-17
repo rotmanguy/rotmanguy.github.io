@@ -11,6 +11,4 @@ pageurl: 'https://vimeo.com/285801250'
 
 A talk about the ACL 2018 paper: Guy Rotman, Ivan Vulić, and Roi Reichart. "Bridging languages through images with deep partial canonical correlation analysis." <i>Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)</i>. 2018.'
 '
-
-<a href='https://vimeo.com/285801250'>Video</a>
-&nbsp;
+[Video](https://vimeo.com/285801250)
