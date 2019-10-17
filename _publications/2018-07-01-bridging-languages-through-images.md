@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2018-07-01-bridging-languages-through-images
 venue: "Association for Computational Linguistics"
 date: 2018-07-01
-citation: '<b>Guy Rotman</b>, Ivan Vulić, and Roi Reichart. <i>Association for Computational Linguistics</i>. <b>ACL 2018</b>.'
+citation: '<b>Rotman, Guy</b>, Ivan Vulić, and Roi Reichart. "Bridging languages through images with deep partial canonical correlation analysis." Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2018.'
 pdfurl: "https://www.aclweb.org/anthology/P18-1084.pdf"
 codeurl: "https://github.com/rotmanguy/DPCCA"
 ---  
