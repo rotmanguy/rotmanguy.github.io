@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* PhD candidate at the faculty of Industrial Engineering and Management at the Technion IIT, working under the supervision of Professor Roi Reichart, 2019 - Present.
+* PhD candidate in Data Science, Technion IIT, 2019 - Present. Research in Natural Language Processing under the supervision of Professor Roi Reichart. My research focuses on low-resource settings, such as: Domain Adaptation, Cross-Lingual settings, Semi-supervised learning, Self-supervised learning and Knowledge Distillation.
 * MSc in Information Management Engineering, Technion IIT, 2018. Research in Natural Language Processing under the supervision of Professor Roi Reichart. My research focused on a multimodal multilingual model that uses visual features to mediate between different languages. Also, I developed Stochastic Optimization algorithms for Deep Learning models. Graduated Cum Laude.
-* BSc in in Industrial Engineering & Management (major in Business Information Systems), Technion IIT, 2016. Graduated Summa Cum Laude.
+* BSc in Industrial Engineering & Management (major in Business Information Systems), Technion IIT, 2016. Graduated Summa Cum Laude.
   * 4 Technion President Award for excellence.
-  * 3 Dean of IE&M Technion Award for excellence.
+  * 3 Dean of Industrial Engineering & Management (IE&M) Technion Award for excellence.
 * BA in Economics & Management, Technion IIT, 2016. Graduated Summa Cum Laude.
 
 Work experience
@@ -24,15 +24,15 @@ January 2019 – Present
 Student Data Scientist at Intel. Working on Machine Learning classification and regression problems on imbalanced datasets.
 
 2016 – 2019
-TA & TA in charge - "Discrete Mathematics", Faculty of IE, Technion IIT.
-TA in charge and Lab Operator – "Stochastic Simulation", Faculty of IE, Technion IIT.
-TA – "Probability for Computer Science", Faculty of IE, Technion IIT.
+TA & TA in charge - "Discrete Mathematics", Faculty of IE&M, Technion IIT.
+TA in charge & Lab Operator – "Stochastic Simulation", Faculty of IE&M, Technion IIT.
+TA – "Probability for Computer Science", Faculty of IE&M, Technion IIT.
 
 July 2017 – September 2017
 Internship at Ebay Israel Research Lab under the supervision of Mr. Ido Guy and Dr. Kira Radinsky. I worked on Text Classification and Named Entity Recognition using Machine Learning and Deep Learning models. 
 
 2015 - 2016
-Research assistant at the Faculty of IE, Technion IIT under the supervision of Professor Izack Cohen. I worked with Matlab and Java to apply scheduling algorithms in the field of Project Management.
+Research assistant at the Faculty of IE&M, Technion IIT under the supervision of Professor Izack Cohen. I worked with Matlab and Java to apply scheduling algorithms in the field of Project Management.
 
 2013 – 2016
 Private tutor at the Technion Student Promotion Unit. I was teaching: Data Structures and Algorithms, Database Management, Artificial Intelligent, Data Mining, Discrete Mathematics, Probability, Statistics, Stochastic Models, Deterministic Models, Stochastic Simulation and Dynamic Linear Systems.
