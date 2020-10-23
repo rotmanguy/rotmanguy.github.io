@@ -29,7 +29,7 @@ TA in charge & lab Operator – "Stochastic Simulation", Faculty of IE&M, Techni
 TA – "Probability for Computer Science", Faculty of IE&M, Technion IIT.
 
 July 2017 – September 2017
-Internship at Ebay Israel Research Lab under the supervision of Mr. Ido Guy and Dr. Kira Radinsky. Solved text Classification and named entity recognition using machine and deep Learning models. 
+Internship at Ebay Israel Research Lab under the supervision of Mr. Ido Guy and Dr. Kira Radinsky. Solved text classification and named entity recognition using machine and deep Learning models. 
 
 2015 - 2016
 Research assistant at the Faculty of IE&M, Technion IIT under the supervision of Professor Izack Cohen. Applied project scheduling optimization problems.
