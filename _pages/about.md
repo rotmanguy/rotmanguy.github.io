@@ -10,4 +10,4 @@ redirect_from:
 
 I am a Ph.D. Student in the Natural Language Processing Group, supervised by <a href = "https://ie.technion.ac.il/~roiri/">Roi Reichart</a>, at the <a href = "http://ie.technion.ac.il">Faculty of Industrial Engineering and Management</a> at the <a href = "http://www.technion.ac.il">Technion - Israel Institute of Technology</a>. 
 
-My research is focused on solving NLP applications under low-resource scenarios, such as: Semi-supervised Learning, Self-supervised Learning, Domain Adaptation, Cross-lingual settings and Knowledge Distillation. I am also interested in multi-modal and multi-lingual representation learning.
+My research focuses on structured learning for low-resource natural language processing. My research interests are domain adaptation, cross-lingual settings, semi and self-supervised learning, model compression and model calibration.
