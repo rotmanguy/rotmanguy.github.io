@@ -24,7 +24,7 @@ January 2019 – Present
 Student Data Scientist at Intel. Solving machine learning classification and regression problems for streamlining manufacturing processes.
 
 July 2017 – September 2017
-Internship at Ebay Israel Research Lab under the supervision of Mr. Ido Guy and Dr. Kira Radinsky. Solved text classification and named entity recognition using machine and deep Learning models. 
+Internship at Ebay Israel Research Lab under the supervision of Dr. Ido Guy and Dr. Kira Radinsky. Solved text classification and named entity recognition using machine and deep Learning models. 
 
 2015 - 2016
 Research assistant at the Faculty of IE&M, Technion IIT under the supervision of Professor Izack Cohen. Applied project scheduling optimization problems.
