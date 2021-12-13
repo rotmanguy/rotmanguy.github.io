@@ -8,7 +8,7 @@ citation: '<b>Guy Rotman*</b>, Amir Feder*, and Roi Reichart. "Model Compression
 pdfurl: "https://arxiv.org/abs/2101.07086"
 codeurl: "https://github.com/rotmanguy/AMoC"
 ---  
-<a href='https://arxiv.org/abs/2101.07086'>PDF</a>
+<a href='https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00431/108609/Model-Compression-for-Domain-Adaptation-through'>PDF</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href='https://github.com/rotmanguy/AMoC'>Code</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
