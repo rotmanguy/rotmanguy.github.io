@@ -1,0 +1,14 @@
+---
+title: "Designing an Automatic Agent for Repeated Language–based Persuasion Games"
+collection: publications
+permalink: /publications/2022-03-18-automatic-agent
+venue: "Transactions of the Association for Computational Linguistics"
+date: 2022-03-18
+citation: 'Maya Raifer, <b>Guy Rotman</b>, Reut Apel, Moshe Tennenholtz, Roi Reichart. "Designing an Automatic Agent for Repeated Language–based Persuasion Games." <i>Transactions of the Association for Computational Linguistics</i> (Volume 10, pages: 307-324). 2022.'
+pdfurl: "https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00462/110050/Designing-an-Automatic-Agent-for-Repeated-Language"
+codeurl: "https://github.com/mayaraifer/automatic_agent"
+---  
+<a href='https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00462/110050/Designing-an-Automatic-Agent-for-Repeated-Language'>PDF</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://github.com/mayaraifer/automatic_agent'>Code</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
