@@ -2,7 +2,7 @@
 title: "Deep Contextualized Self-training for Low Resource Dependency Parsing"
 collection: talks
 type: "Talk"
-permalink: /talks/2020-07-07-deep-contextualized-self-learning
+permalink: /talks/2020-07-07-deep-contextualized-self-training
 venue: "ACL 2018"
 date: 2020-07-07
 location: "Virtual Conference"
