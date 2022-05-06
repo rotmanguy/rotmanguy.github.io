@@ -1,5 +1,5 @@
 ---
-title: "Model Compression for Domain Adaptation through Causal Effect Estimation"
+title: "Deep Contextualized Self-training for Low Resource Dependency Parsing"
 collection: publications
 permalink: /publications/2019-10-01-self-contextualized-training.md
 venue: "Transactions of the Association for Computational Linguistics"
