@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD candidate in Data Science, Technion IIT, 2019 - Present. Research in Natural Language Processing under the supervision of Professor Roi Reichart. My research focuses on structured learning for low-resource settings. My research interests are domain adaptation, cross-lingual settings, semi and self-supervised learning, model compression, model calibration and active learning.
+* PhD candidate in Data Science, Technion IIT, 2019 - 2022. Research in Natural Language Processing under the supervision of Professor Roi Reichart. My research focuses on structured learning for low-resource settings. My research interests are domain adaptation, cross-lingual settings, semi and self-supervised learning, model compression, model calibration and active learning.
 * MSc in Information Management Engineering, Technion IIT, 2018. Research in Natural Language Processing under the supervision of Professor Roi Reichart. My research focused on multimodal multilingual models that exploit visual features to mediate between different languages. In addition, I developed stochastic optimization algorithms for deep neural networks. Graduated Cum Laude.
 * BSc in Industrial Engineering & Management (major in Business Information Systems), Technion IIT, 2016. Graduated Summa Cum Laude.
   * 4 Technion President awards for excellence.
@@ -20,7 +20,10 @@ Education
 
 Work experience
 ======
-June 2021 – Present
+August 2022 – Present
+Senior NLP Researcher at Gong. Working on NLP problems for conversational data such as emails and calls in the sales domain.
+
+June 2021 – June 2022
 Data & Applied Scientist Intern at Microsoft. Working on NLP problems for healthcare products in the contexts of fairness and multilinguality.
 
 January 2019 – June 2021
